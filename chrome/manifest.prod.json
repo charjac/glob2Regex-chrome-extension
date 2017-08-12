@@ -1,10 +1,10 @@
 {
   "version": "0.0.0",
-  "name": "react-chrome-extension-example",
+  "name": "glob2Regex",
   "manifest_version": 2,
-  "description": "Example for react-chrome-extension-boilerplate",
+  "description": "translate a glob to a regex",
   "browser_action": {
-    "default_title": "React Chrome Extension Example",
+    "default_title": "glob2Regex",
     "default_popup": "popup.html"
   },
   "icons": {
